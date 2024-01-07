@@ -1,0 +1,202 @@
+*{
+    margin: 0;
+    padding: 0;
+ 
+}
+.main{
+    width: 100%;
+    height: 350vh;
+   background-color: white;
+}
+.first{
+    width: 100%;
+    height: 730px;
+    
+    display: flex;
+}
+.new-year{
+    width: 100%;
+    height: 100%;
+    background: url(Banner\ Image.png);
+    background-repeat: no-repeat;
+    margin: 40px 0px 40px 310px;
+   
+}
+.text{
+   margin-top: 180px;
+
+}
+.text-1{
+    font-size: 45px;
+    color: azure;
+   margin-left: 550px;
+   margin-bottom: 30px;
+   text-shadow: 2px 2px black;
+}
+.text-2{
+    color: azure;
+   margin-left: 470px;
+    font-size: 65px;
+    text-shadow: 2px 2px black;
+}
+.second{
+    width: 100%;
+    height: 800px;
+    display: flex;
+
+}
+
+.pic{
+    width: 800px;
+    height: 500px;
+    margin-left:500px;
+}
+.off{
+    font-size: 55px;
+    margin-left: 800px;
+    margin-bottom: 40px;
+    
+}
+.make-up{
+    color: cornflowerblue;
+}
+.day{
+    margin-left: 780px;
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+.cata{
+    margin-left: 800px;
+    margin-bottom: 30px;
+    
+}
+.third{
+    width: 100%;
+    height: 700px;
+    
+    display: flex;
+}
+.welcome{
+   
+    width: 100% ;
+    height: 100%;
+    background:url(Vectorrr.png);
+    background-repeat: no-repeat;
+    margin-left: 300px;
+}
+.mid{
+    color: #fff;
+    padding: 180px 160px 40px 100px;
+    font-size: 70px;
+    text-shadow:2px 2px black ;
+}
+.par{
+    color: #fff;
+    padding-left: 100px;
+    margin-bottom: 20px;
+    text-shadow:2px 2px black ;
+    
+
+}
+.join{
+    color:#fff;
+    margin-left: 150px;
+    text-shadow:2px 2px black ;
+}
+.four{
+    width: 100%;
+    height: 540px;
+   
+}
+.date{
+    width: 1320px;
+    height: 442px;
+    background-color: azure;
+    margin-left: 300px;
+    border-radius: 10px;
+}
+.place{
+    letter-spacing: 1px;
+    padding: 110px 500px 20px 500px;
+    text-shadow: 2px 1px darkgray;
+}
+.smy{
+    letter-spacing: 1px;
+    margin-left: 465px;
+    margin-bottom: 20px;
+    text-shadow: 2px 1px darkgray;
+}
+.time{
+    letter-spacing: 1px;
+    margin-left: 443px;
+    margin-bottom: 50px;
+    text-shadow: 2px 1px darkgray;
+   
+
+}
+.btn{
+    width: 120px;
+    height: 50px;
+    font-size: 20px;
+    color: #000;
+    background-color: cornflowerblue;
+    border: 0;
+    border-radius: 3px;
+    margin-left: 550px;
+    
+}
+.five{
+    width: 100%;
+    height: 400px;
+    
+}
+.circle{
+    width: 1320px;
+    height: 380px;
+    margin-left: 300px;
+    background-color:azure;
+    display: flex;
+}
+.block-1{
+    width: 400px;
+
+}
+.shal{
+    margin-top: 100px;
+}
+.c-s{
+    margin-top: 10px;
+}
+.r-c{
+    width: 280px;
+    margin-top: 25px;
+    margin-left: 30px;
+}
+.lorem{
+    margin-top: 10px;
+}
+.extra{
+    margin-top: 5px;
+    
+        width: 370px; 
+        height: 370px; 
+        border-radius: 50%; 
+        background-color: red;        
+}
+.w-cir{
+        width: 340px; 
+        height: 330px; 
+        border-radius: 50%; 
+        background-color: azure; 
+        margin-top: 20px;
+        margin-left: 15px;
+}
+.block-3{
+    width: 300px;
+    height: 370px;
+    margin-left: 200px;
+}
+.s-nw{
+    margin-top: 30px;
+}
+
